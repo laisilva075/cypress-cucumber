@@ -15,6 +15,6 @@
   },
   "cypress-cucumber-preprocessor": {
   "nonGlobalStepDefinitions": true,
-  "stepDefinitions": "cypress/support/steps"
+  "stepDefinitions": "cypress/e2e"
 }
 }
